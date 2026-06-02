@@ -1,8 +1,10 @@
+package javacollectionframework;
+
 //A Stack is a linear data structure that follows: LIFO
 
 
 
-// ✅ Undo
+//✅ Undo
 //✅ Backtracking
 //✅ Reverse
 //✅ Nested Brackets
@@ -44,7 +46,7 @@ public class stack {
         //checks whether the stack contains any elements or not.
         if(st.isEmpty()){
             System.out.println("Empty");
-
+        }
 
         //size()
         System.out.println(st.size());
@@ -54,6 +56,6 @@ public class stack {
         //Finds position from top.
         System.out.println(st.search("20"));
 
-     }
+    }
     
 }
