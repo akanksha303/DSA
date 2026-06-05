@@ -1,12 +1,8 @@
-
 //Store nodes connected through references.
 /*What is a Node?
      A node contains:
        Data
        Reference to next node */
-
-
-
 
 package javacollectionframework;
 import java.util.LinkedList;
@@ -82,6 +78,10 @@ public class linkedlist {
         }
     }
 
+
+
+    
+
     public static void main(String[] args) {
 
         LinkedList<Integer> list = new LinkedList<>();
@@ -135,9 +135,7 @@ public class linkedlist {
 
 
 
-
-
-    }
+}
 
 
 
