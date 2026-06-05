@@ -4,9 +4,6 @@ package javacollectionframework;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-import javax.swing.text.View;
-
-
 
 public class priorityqueue {
     public priorityqueue(){
